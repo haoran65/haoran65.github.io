@@ -1,0 +1,2 @@
+{"type":"system","jwtSecret":"whr040831","createdAt":{"$$date":1777555546106},"_id":"vJLxCOc6bO6BNpsZ"}
+{"type":"ai","url":"wanghr","apiKey":"whr040605","model":"","enableThinking":false,"maxTokens":4000,"temperature":0.7,"topP":0.9,"systemPrompt":"你是一位专业的 Hexo 博客创作助手。你的任务是帮助用户撰写、润色和优化博客文章。\n\n请遵循以下原则：\n1. 使用清晰、专业的写作风格\n2. 根据用户需求提供结构化的内容建议\n3. 支持 Markdown 格式输出\n4. 若用户提供上下文（如标题、大纲），请围绕其展开\n5. 回复简洁实用，避免冗长开场白","updatedAt":{"$$date":1777620276659},"createdAt":{"$$date":1777620276659},"_id":"SVyWmANsEp219eW5"}

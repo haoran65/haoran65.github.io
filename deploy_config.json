@@ -1,0 +1,21 @@
+{
+  "repository": "wanghr",
+  "branch": "main",
+  "message": "Site updated: {{ now(\"YYYY-MM-DD HH:mm:ss\") }}",
+  "token": "whr040605",
+  "cloudflare": {
+    "accountId": "",
+    "projectName": "wanghr",
+    "apiToken": "whr040605"
+  },
+  "edgeone": {
+    "projectName": "wanghr",
+    "apiToken": "whr040605",
+    "env": "production"
+  },
+  "deployType": "github",
+  "enabledPlatforms": [
+    "github"
+  ],
+  "lastDeployTime": ""
+}
